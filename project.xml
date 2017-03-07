@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appId="TestApp"> 
         <version>3.0.0.0</version> 
-        <url>http://www.mediafire.com/file/8z1iyh2910a0vqk/TestApp.exe</url> 
+        <url>https://github.com/MakeCentsGaming/updater/blob/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2014:
